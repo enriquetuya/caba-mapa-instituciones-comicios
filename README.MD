@@ -11,6 +11,13 @@ El archivo cuenta con los siguientes datos:
 * Latitud y Longitud de la institución
 * Número total de mesas
 * Mesas desde y mesas hasta
+* 
+
+## Visualización
+
+Se puede ver una versión en vivo de la información en el siguiente link:
+
+* [Visualización CartoDB](http://cdb.io/1MP5J5H)
 
 ## Fuentes
 
