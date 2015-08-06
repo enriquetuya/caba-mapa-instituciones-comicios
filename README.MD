@@ -11,7 +11,6 @@ El archivo cuenta con los siguientes datos:
 * Latitud y Longitud de la institución
 * Número total de mesas
 * Mesas desde y mesas hasta
-* 
 
 ## Visualización
 
