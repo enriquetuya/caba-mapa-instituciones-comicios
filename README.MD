@@ -1,4 +1,4 @@
-# Instituciones padròn electoral CABA
+# Instituciones padrón electoral CABA
 ## Descripción
 
 Se encontrara en este proyecto un listado con todas las instituciones en las cuales se realizan los comicios en la ciudad autónoma de buenos aires.
